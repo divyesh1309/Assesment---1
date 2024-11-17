@@ -42,7 +42,7 @@ void main()
         scanf(" %c", &more_orders);
     } 
 
-    while (more_orders == 'y' || more_orders == 'y');      // 'y', 'Y' user input karega to loop dubara chalega    
+    while (more_orders == 'y' || more_orders == 'Y');      // 'y', 'Y' user input karega to loop dubara chalega    
 
     printf("\nThank you! Your final bill is :- %d", total_amount);  //'n' , 'N' user input karega to loop close hoga or fainal bill print kar dega   
     
